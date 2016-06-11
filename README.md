@@ -11,6 +11,8 @@
 - Why Did you Update https://github.com/garbles/why-did-you-update
 - Redux https://github.com/reactjs/redux
 - ImmutableJS https://github.com/facebook/immutable-js
+- React Lite https://github.com/Lucifier129/react-lite
+- Preact https://github.com/developit/preact
 
 ### Visual Regression Testing 
 https://css-tricks.com/visual-regression-testing-with-phantomcss/
