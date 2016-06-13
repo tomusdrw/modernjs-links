@@ -36,3 +36,17 @@ https://github.com/tomusdrw/minimal-karma-webpack
 ### Douglas Crockford
 - https://www.youtube.com/watch?v=bo36MrBfTk4
 - https://www.youtube.com/watch?v=lTWGoL1N-Kc
+
+### IE9
+
+#### Strict Mode
+Is it safe to use strict mode for IE9?
+TL;DR Watch out for keyword props (`var x = {}; x.break = true;`)
+
+http://stackoverflow.com/questions/18223517/is-it-safe-to-use-use-strict-in-ie-8-9
+
+https://msdn.microsoft.com/en-us/library/br230269(v=vs.94).aspx
+
+#### Defer
+https://github.com/h5bp/lazyweb-requests/issues/42
+
