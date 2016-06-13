@@ -1,3 +1,6 @@
+# Starter
+- https://github.com/tomusdrw/modernjs-browserify-workflow
+
 # CSS
 - http://caniuse.com/
 
