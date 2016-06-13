@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title></title>
+  </head>
+  <body>
+    <h1>Jak zacząć?</h1>
+    <p>Przechodzimy do katalogu projektu.</p>
+    <pre>
+      $ npm init -f # tworzymy package.json
+    </pre>
+    <p>Instalujemy potrzebne zależności developerskie</p>
+    <pre>
+      $ npm install browserify --save-dev  # Do bundlowania
+      $ npm install watchify --save-dev    # Do obserwowania
+      $ npm install live-server --save-dev # Do serwowania 
+    </pre>
+    <p>Wrzucamy nasze pliki do `src`, aby dostać taką strukturę:</p>
+    <pre>
+      |-- package.json
+      |-- node_modules/
+      `-- src
+          |-- index.html
+          `-- main.js
+    </pre>
+    <p>Odpalamy watchify:</p>
+    <pre>
+      $ # To będzie produkować bundla ze wszystkich naszych modułów
+      $ node_modules/.bin/watchify src/main.js src/bundle.js
+    </pre>
+    <p>Odpalamy serwer (w katalog `src`!):</p>
+    <pre>
+      $ cd src
+      $ ../node_modules/.bin/live-server
+    </pre>
+
+    <p>Upewniamy się, że w index.html ładujemy tylko pliku "bundle.js"</p>
+    <pre>
+      &lt;script src="bundle.js"&gt;&lt;/script&gt;
+    </pre>
+
+    <p>Od teraz możemy korzystać z modułów CommonJS w naszej aplikacji</p>
+  </body>
+</html>
