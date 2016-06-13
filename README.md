@@ -1,5 +1,6 @@
 # Starter
 - https://github.com/tomusdrw/modernjs-browserify-workflow
+- https://www.youtube.com/watch?v=6AytbSdWBKg
 
 # CSS
 - http://caniuse.com/
@@ -31,3 +32,7 @@ https://github.com/tomusdrw/visual-regression-testing
 
 ### Karma + Webpack
 https://github.com/tomusdrw/minimal-karma-webpack
+
+### Douglas Crockford
+- https://www.youtube.com/watch?v=bo36MrBfTk4
+- https://www.youtube.com/watch?v=lTWGoL1N-Kc
