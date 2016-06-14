@@ -1,6 +1,7 @@
 # Starter
 - https://github.com/tomusdrw/modernjs-browserify-workflow
 - https://www.youtube.com/watch?v=6AytbSdWBKg
+- https://github.com/tomusdrw/react-starter
 
 # CSS
 - http://caniuse.com/
