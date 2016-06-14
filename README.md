@@ -14,6 +14,8 @@
 - Stage 1 - Class properties https://github.com/jeffmo/es-class-fields-and-static-properties
 - Query Selector https://developer.mozilla.org/pl/docs/Web/API/Document/querySelector
 - Service Workers https://www.youtube.com/watch?v=4uQMl7mFB6g
+- https://github.com/ericdouglas/es6-learning
+- http://www.2ality.com/
 
 # React
 - Class Names https://www.npmjs.com/package/classnames
@@ -26,12 +28,12 @@
 - Preact https://github.com/developit/preact
 
 ### Visual Regression Testing 
-https://css-tricks.com/visual-regression-testing-with-phantomcss/
-https://github.com/Huddle/PhantomCSS
-https://github.com/tomusdrw/visual-regression-testing
+- https://css-tricks.com/visual-regression-testing-with-phantomcss/
+- https://github.com/Huddle/PhantomCSS
+- https://github.com/tomusdrw/visual-regression-testing
 
 ### Karma + Webpack
-https://github.com/tomusdrw/minimal-karma-webpack
+- https://github.com/tomusdrw/minimal-karma-webpack
 
 ### Douglas Crockford
 - https://www.youtube.com/watch?v=bo36MrBfTk4
