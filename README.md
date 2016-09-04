@@ -1,10 +1,13 @@
 # Starter
-- https://github.com/tomusdrw/modernjs-browserify-workflow
+- https://github.com/facebookincubator/create-react-app
 - https://www.youtube.com/watch?v=6AytbSdWBKg
-- https://github.com/tomusdrw/react-starter
+- Hosting case: function that writes to upper scope variable.
+- Strict mode: assingment to undeclared variable is a ReferenceError (not accessing)
 
 # CSS
 - http://caniuse.com/
+- % vs em http://stackoverflow.com/questions/132685/font-size-in-css-or-em
+- IMG sizing attributes - historical reasons, non-css browsers.
 
 # Node
 - https://github.com/creationix/nvm
@@ -19,6 +22,7 @@
 - http://www.2ality.com/
 
 # React
+- https://www.youtube.com/watch?v=BF58ZJ1ZQxY
 - Class Names https://www.npmjs.com/package/classnames
 - React Patterns https://github.com/planningcenter/react-patterns
 - React Tooling http://javascriptplayground.com/blog/2016/02/the-react-webpack-tooling-problem
