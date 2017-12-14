@@ -9,6 +9,17 @@
 - % vs em http://stackoverflow.com/questions/132685/font-size-in-css-or-em
 - IMG sizing attributes - historical reasons, non-css browsers.
 
+```css
+.product {
+  background: #ddd;
+  border: 1px solid #444;
+  padding: 2rem;
+  margin: 3rem;
+  width: 50%;
+  float: left;
+}
+```
+
 # Node
 - https://github.com/creationix/nvm
 - https://github.com/coreybutler/nvm-windows
