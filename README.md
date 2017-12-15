@@ -43,6 +43,10 @@
 - React Lite https://github.com/Lucifier129/react-lite
 - Preact https://github.com/developit/preact
 
+### Redux
+
+- Redux tutorial https://egghead.io/courses/getting-started-with-redux
+
 ### Visual Regression Testing 
 - https://css-tricks.com/visual-regression-testing-with-phantomcss/
 - https://github.com/Huddle/PhantomCSS
