@@ -42,6 +42,7 @@
 - ImmutableJS https://github.com/facebook/immutable-js
 - React Lite https://github.com/Lucifier129/react-lite
 - Preact https://github.com/developit/preact
+- Functional stateless components vs PureComponents vs Components https://stackoverflow.com/questions/40703675/react-functional-stateless-component-purecomponent-component-what-are-the-dif
 
 ### Redux
 
